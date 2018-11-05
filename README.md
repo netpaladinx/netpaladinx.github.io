@@ -1,1 +1,0 @@
-# netpaladinx.github.io

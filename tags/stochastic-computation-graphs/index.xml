@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Stochastic Computation Graphs on A Pilgrim for A.I.</title>
+    <link>https://www.xiaoranxu.com/tags/stochastic-computation-graphs/</link>
+    <description>Recent content in Stochastic Computation Graphs on A Pilgrim for A.I.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Wed, 25 Jul 2018 10:06:24 +0800</lastBuildDate>
+    
+	<atom:link href="https://www.xiaoranxu.com/tags/stochastic-computation-graphs/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Backprop-Q: Generalized Backpropagation for Stochastic Computation Graphs</title>
+      <link>https://www.xiaoranxu.com/publication/backprop-q/</link>
+      <pubDate>Wed, 25 Jul 2018 10:06:24 +0800</pubDate>
+      
+      <guid>https://www.xiaoranxu.com/publication/backprop-q/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on A Pilgrim for A.I.</title>
+    <link>https://www.xiaoranxu.com/tags/</link>
+    <description>Recent content in Tags on A Pilgrim for A.I.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Thu, 01 Nov 2018 16:59:54 +0800</lastBuildDate>
+    
+	<atom:link href="https://www.xiaoranxu.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Attention Flow</title>
+      <link>https://www.xiaoranxu.com/tags/attention-flow/</link>
+      <pubDate>Thu, 01 Nov 2018 16:59:54 +0800</pubDate>
+      
+      <guid>https://www.xiaoranxu.com/tags/attention-flow/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Backpropagation</title>
+      <link>https://www.xiaoranxu.com/tags/backpropagation/</link>
+      <pubDate>Wed, 25 Jul 2018 10:06:24 +0800</pubDate>
+      
+      <guid>https://www.xiaoranxu.com/tags/backpropagation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Causal Chains</title>
+      <link>https://www.xiaoranxu.com/tags/causal-chains/</link>
+      <pubDate>Thu, 01 Nov 2018 16:59:54 +0800</pubDate>
+      
+      <guid>https://www.xiaoranxu.com/tags/causal-chains/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Credit Assignment</title>
+      <link>https://www.xiaoranxu.com/tags/credit-assignment/</link>
+      <pubDate>Wed, 25 Jul 2018 10:06:24 +0800</pubDate>
+      
+      <guid>https://www.xiaoranxu.com/tags/credit-assignment/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Differentiable Path-based Model</title>
+      <link>https://www.xiaoranxu.com/tags/differentiable-path-based-model/</link>
+      <pubDate>Mon, 27 Aug 2018 00:00:00 +0800</pubDate>
+      
+      <guid>https://www.xiaoranxu.com/tags/differentiable-path-based-model/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Explainable Recommendation</title>
+      <link>https://www.xiaoranxu.com/tags/explainable-recommendation/</link>
+      <pubDate>Mon, 27 Aug 2018 00:00:00 +0800</pubDate>
+      
+      <guid>https://www.xiaoranxu.com/tags/explainable-recommendation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Graph Networks</title>
+      <link>https://www.xiaoranxu.com/tags/graph-networks/</link>
+      <pubDate>Thu, 01 Nov 2018 16:59:54 +0800</pubDate>
+      
+      <guid>https://www.xiaoranxu.com/tags/graph-networks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Knowledge Distillation</title>
+      <link>https://www.xiaoranxu.com/tags/knowledge-distillation/</link>
+      <pubDate>Mon, 27 Aug 2018 00:00:00 +0800</pubDate>
+      
+      <guid>https://www.xiaoranxu.com/tags/knowledge-distillation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Random Walk</title>
+      <link>https://www.xiaoranxu.com/tags/random-walk/</link>
+      <pubDate>Thu, 01 Nov 2018 16:59:54 +0800</pubDate>
+      
+      <guid>https://www.xiaoranxu.com/tags/random-walk/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reasoning</title>
+      <link>https://www.xiaoranxu.com/tags/reasoning/</link>
+      <pubDate>Thu, 01 Nov 2018 16:59:54 +0800</pubDate>
+      
+      <guid>https://www.xiaoranxu.com/tags/reasoning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stochastic Computation Graphs</title>
+      <link>https://www.xiaoranxu.com/tags/stochastic-computation-graphs/</link>
+      <pubDate>Wed, 25 Jul 2018 10:06:24 +0800</pubDate>
+      
+      <guid>https://www.xiaoranxu.com/tags/stochastic-computation-graphs/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
