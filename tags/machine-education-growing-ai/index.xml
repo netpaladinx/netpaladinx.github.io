@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Machine Education, Growing AI on A Pilgrim for A.I.</title>
+    <link>https://www.xiaoranxu.com/tags/machine-education-growing-ai/</link>
+    <description>Recent content in Machine Education, Growing AI on A Pilgrim for A.I.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Mon, 12 Nov 2018 00:00:00 +0800</lastBuildDate>
+    
+	<atom:link href="https://www.xiaoranxu.com/tags/machine-education-growing-ai/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Task System for machines V.S. Education System for Humans</title>
+      <link>https://www.xiaoranxu.com/thinking/about-task-systems/</link>
+      <pubDate>Mon, 12 Nov 2018 00:00:00 +0800</pubDate>
+      
+      <guid>https://www.xiaoranxu.com/thinking/about-task-systems/</guid>
+      <description>Current machine learning and deep learning models are trained by tasks that come mostly from real-life applications with practical purposes. Few tasks are designed specially and systematically for the purpose of studying pure intelligence. Why is this very important? Much efforts today in the AI community have been put on designing AI models that are AI&amp;rsquo;s brains, whereas less studies are concentrated on how to design and organize a series of tasks that can help AI grow.</description>
+    </item>
+    
+  </channel>
+</rss>

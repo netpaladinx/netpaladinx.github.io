@@ -11,6 +11,116 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Human Roles in Growing AI</title>
+      <link>https://www.xiaoranxu.com/thinking/about-human-roles/</link>
+      <pubDate>Tue, 13 Nov 2018 00:00:00 +0800</pubDate>
+      
+      <guid>https://www.xiaoranxu.com/thinking/about-human-roles/</guid>
+      <description>&lt;p&gt;I would rather see intelligence as an ability to grow in knowledge and wisdom than as a product made by genius engineers that is ready for sale. If we really wish AI to own the same intellectual ability as us, we should be aware of the process of how we develop our intelligence. We, as intelligent beings, are born as a blank sheet of paper. To acquire intellectual growing, children need to learn from the environment, parents, teachers, friends and even opponents except engineers, that is, children need to learn from interaction with other humans. From this point of view, changing children with AI, I am curious about what roles humans could play in the long and continuous process of growing AI except acting as engineers and scientists to built AI. Therefore, to grow AI may be a much more challenging task than to build one, requiring all humankind involved to become an indispensible part of the whole AI learning ecosystem.&lt;/p&gt;
+
+&lt;p&gt;I can think of several roles that humans can take listed as follows:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Teachers.&lt;/strong&gt; This role should provide clear and correct answers for AI as in supervised learning. The answers could be a right final outcome to be predicted such as labels, or a sequence of correct actions that let AI be able to mimic step by step. More flexibly, instead of final or all-the-way supervising, teachers can pick the critical moments to give supervison more efficiently.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Masters.&lt;/strong&gt; Unlike teachers, masters do not have to hold enough domain knowledge to teach machines exactly what to do. Instead, they should be able to sense whether an action or a produced result is acceptable or not, and provide appropriate encouragement or rewards as well as warnings or penalties as in reinforcement learning. This kind of relationship between humans and machines is like the one between masters and pets. Compared with teachers, the master role requires less human&amp;rsquo;s effort, but with more people involved in the direction interaction with machines, it can release the burden on AI engineers and provide much richer guidence from the human society.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Opponents or competitors.&lt;/strong&gt; From its literal meaning, this role plays against machines, a sort of adversarial training to force machines to make progress on its own. Playing chess or go between humans and machines belongs to this domain, but it demands all-the-way sparring and may consume too much time from humans. Another type of opponents is a trouble maker who can creat obstacles for machines from time to time.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Parteners or cooperators.&lt;/strong&gt; Contrary to opponents, this role requires huamns to work with or aid machines to achieve some goal. This sort of aid is incomparable with that of teachers or masters but no more than a communication channel or a helpful behavior, as human parteners are also a game player similar to machines and may even know little about this world. Even so, human parteners can still give extra observed information to machines and watch how machines react, which provides an opportunity for both to communicate with and learn from each other.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Agent builders.&lt;/strong&gt; This role is actually played by engineers. An agent builder can decide how to design and assemble an AI machine, such as what types of sensors it has, what actions it can take, and how deep its neural network can go.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;World builders.&lt;/strong&gt; This role acts as a super administrator who owns the hightest priviledge to add, remove and modify every detail in this world, and to design new sceniors and set up new tasks to train machines.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Task System for machines V.S. Education System for Humans</title>
+      <link>https://www.xiaoranxu.com/thinking/about-task-systems/</link>
+      <pubDate>Mon, 12 Nov 2018 00:00:00 +0800</pubDate>
+      
+      <guid>https://www.xiaoranxu.com/thinking/about-task-systems/</guid>
+      <description>&lt;p&gt;Current machine learning and deep learning models are trained by tasks that come mostly from real-life applications with practical purposes. Few tasks are designed specially and systematically for the purpose of studying pure intelligence. Why is this very important? Much efforts today in the AI community have been put on designing AI models that are AI&amp;rsquo;s brains, whereas less studies are concentrated on how to design and organize a series of tasks that can help AI grow.&lt;/p&gt;
+
+&lt;p&gt;On the contrary, for human intelligence, we do not put too much thoughts on how our brains are built, whereas we would emphasize the importance of education, create educational environemnt and develop curricula as good as possible to make sure our children&amp;rsquo;s intelligence would grow from a blank canvas into a stunning piece. In this regard, studies on education should be treated as part of the whole ecosystem of AI research. The stories of feral childrens raised by wolves tell us a undeniable fact - the high-level cognitive ability is a production of nurture in education. In other words, education is not only a channel to pass on knowledge from one generation to the next, but also a powerful tool to significantly increase individual cognitive ability.&lt;/p&gt;
+
+&lt;p&gt;The term &amp;ldquo;task system&amp;rdquo; for machines is derived by analogy to education system for humans. However, we do not refer to the exact meaning and content of human education when mentioning task systems for machines, just as we could not teach a dog the way we teach a human. Instead, machine education should be tailored to suit the need of developing machine intelligence.&lt;/p&gt;
+
+&lt;p&gt;A task system should produce a set of tasks, similar in some aspects but different in others. For example, those tasks are set up to solve the same prolem but with different difficulities as in curriculum learning; those tasks face the same prediction goal but with different input domains as in transfer learning. However, lacking a top-level world design, these sort of task setups are not comparable against the real-world ones for humans and even for animals. Therefore, a well-designed task system should be built on a world, a common environment base, which all tasks should use the materials of as their design elements and also be consistent with. This world does not have to be exactly identical to our real world. However, the world should be able to grow with new elements and details added, so that new tasks could be continuously generated from it.&lt;/p&gt;
+
+&lt;p&gt;For the learning purpose, there is a more profound goal for machines than simply learning to solve one specific task, which is to estabilish a deep and full understanding of how the world works through attempting to solve tasks one after another. I list several types of tasks as follows:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Predicting unseen states or things in the world based on partial observation. Machines need to develop this kind of ability to break the barrier of time and space, and also overcome the limitatin of its own body such as sensors.&lt;/li&gt;
+&lt;li&gt;Causal reasoning about the inner workings of the world such as the physical laws. Machines should be aware of the possible consequences of each action as well as an occuring event by watching real scenarios, imagining counterfactual scenarios and intervening in the world. This ability will help machines develop its own mental environment model to mimick and interpret the world it lives in.&lt;/li&gt;
+&lt;li&gt;Planning. Based on the environment model developed by causal reasoning, machines should be able to do planning and navigate itself in the action space to finish a relatively complex job.&lt;/li&gt;
+&lt;li&gt;Communicating and collaborating with other machines. Intelligence emergence is a production of a society rather than a single individual.&lt;/li&gt;
+&lt;li&gt;Developing a set of abstract symbols with some syntax within a society to boost the intelligence level of the entire society. This is the ability of acquiring languages, including assigning a symbol a specific meaning, using more symbols syntactically to capture or constuct more complex meaning, understanding symbols generated by other machines, and knowing how to behave under the guidence of symbols.&lt;/li&gt;
+&lt;li&gt;Continously developing abstract symbols into a more adavanced language system. Ultimately, machines own the ability to write novels, summerize life experiences, and develop their own strategy and philosophy individually and globally.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Objective Functions V.S. Life Purposes</title>
+      <link>https://www.xiaoranxu.com/thinking/about-objectives/</link>
+      <pubDate>Sun, 11 Nov 2018 00:00:00 +0800</pubDate>
+      
+      <guid>https://www.xiaoranxu.com/thinking/about-objectives/</guid>
+      <description>&lt;p&gt;Each time I attempt to see intelligence in machine learning models, there would be a doubt rising in my head - how could intelligence, characterized by high-level abstraction capability, be acquired simply by a gradient descent process reaching convergence? I would rather believe that &lt;strong&gt;the journey of pursuing intelligence is a back-and-forth, twist-and-turns, and chaotic-and-conscious process with loops, eventually jumping out of loops and reaching some enlightment point&lt;/strong&gt;. Therefore, it cannot be achieved only with one single objective formulated by one specific optimizatoin problem.&lt;/p&gt;
+
+&lt;p&gt;If you begin to question that, you might find the root of the problem lies in our research motivation for studying AI. Many people would think that the subject of AI research should be a concrete application-oriented problem, but I would rather believe the intelligence itself should be laid at the core of the subject we should study. If we wish to solve almost everything using intelligence, how could it be possible to achieve it bypassing intelligence. Even if we may not know what exact properties artificial intelligence should have, at least we could find some clues from ourselves - human intelligence.&lt;/p&gt;
+
+&lt;p&gt;From this perspective, I acquired some inspiration from children learning to propose a hypothesis of a continuous self-training framework - a continuous process alternating between &lt;strong&gt;finding a puzzle&lt;/strong&gt; and &lt;strong&gt;solving a puzzle&lt;/strong&gt;. As we were children, we explored the world mainly out of curiosity. This process can be decomposed into three questions:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Is it easy to find or construct a puzzle by the child or the agent?&lt;/li&gt;
+&lt;li&gt;Is this puzzle likely to be solved by the child or the agent?&lt;/li&gt;
+&lt;li&gt;How much sense of achievement is gained from solving a puzzle by the child or the agent?&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;I take a specific scenario that children love watching cartoons more than movies. It is obvious that cartoons have a lot of non-realistic scenes, such as bright colors with high contrast and talking animals. We must notice that the lack of fidelity does not affect children&amp;rsquo;s cognition at all. On the contrary, children may be sensitive to the cognition complexity required in a scene. Bright colors catch children&amp;rsquo;s eyes because they help kids to distiguish objects from one another in their field of vision. Talking animals appeal to children because children may find it easier to understand anthropomorphic characters by animal appearances than to understand human psychology and behavior. Therefore, children&amp;rsquo;s cognition progressing needs incentive built properly as a driving engine to keep them focusing and learning autonomously, implicitly or explicitly, which I call continuous self-training.&lt;/p&gt;
+
+&lt;p&gt;The scenario fits the above three-questions schema in the finding-solving framework. First, would it be easy for children to form a puzzle in their heads by watching cartoons. An obvious fact is that children prefer reading pictures to reading texts, and prefer reading cartoon pictures to reading real-world images. A cartoon character with a strange shape or a dumb movement, such as a banana-like head or a falling-down movement, tends to create a cognitively simple but surprising event and draw children&amp;rsquo;s attention, forming a puzzle more easily. By watching cartoons, a small rudimentary environment model would develop in children&amp;rsquo;s heads, often with a narrative storyline made up from the children&amp;rsquo;s point of view, which always goes with a series of WHY questions to seek explanations. I think this is where children begin to acquire the basic causal reasoning capability. Although adults might see these questions either having obvious answers or being meaningless to ask, for children such questions constitute initial puzzles to help develop their common knowledge.&lt;/p&gt;
+
+&lt;p&gt;After forming a puzzle, we will assess whether the puzzle is easy to solve and might try multiple times harder and harder. If we solve it, the degree of being able to acquire new knowledge will contribute to the sense of reward. Little knowledge acquired might make us feel boring, whereas much new knowledge gained tends to cause us to feel satisified and even excited. If we fail to solve it after many attempts, we may give it up without any reward obtained but being exhausted. Often, we would first consider whether it is worth solving based on our previous experience, by evaluting how likely we are able to solve it and how much reward it can bring us. For children, their sense of reward may be mainly driven by their curiosity and possible acheivement they might get. As they grow up, answering such simple questions cannot bring them new knowledge and experience any more, leading to little reward. They need to find new puzzles and solve them.&lt;/p&gt;
+
+&lt;p&gt;The process of finding, evaluating, tring to solve, failing or succeeding, getting rewarded or not, and then re-evluating, happens so quickly that we might not be aware of how we are motivated in our everyday life. When we become adults, the reward expectation system becomes so complex that the curiosity and knowledge achievement are not the only inccentives to drive us. As our environment models become strong, we are able to do long-term planning and get self-motivated by some ultimate goal we call the life purpose.&lt;/p&gt;
+
+&lt;p&gt;I know this is a big topic beyond our current techniques pursuing AI, but we can still apply this thinking to some computation models such as GANs. In this adversarial training framework, the two opponent roles can be simultaneously hosted in our brain, one to propose a puzzle, one to solve it. The puzzle is proposed by the discriminator and left for the generator to solve. To find the most rewarding puzzle, the discriminator has to play in an adversarial style, that is, to pick the biggest weakness in the generator leading to a large margin to progress. Some troubles in training GANs can be also explained using this framework. Sometimes, the generator fails to solve puzzles given by the discriminator, getting stuck in a poor finding-solving process.&lt;/p&gt;
+
+&lt;p&gt;For future work, we need to figure out more computation framework to reflect the finding-solving process besides GANs.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Artificial Neural Nets V.S. Human Brain Nets</title>
+      <link>https://www.xiaoranxu.com/thinking/about-architectures/</link>
+      <pubDate>Sat, 10 Nov 2018 00:00:00 +0800</pubDate>
+      
+      <guid>https://www.xiaoranxu.com/thinking/about-architectures/</guid>
+      <description>&lt;p&gt;There are two major theories of the brain&amp;rsquo;s cognitive function - &lt;a href=&#34;https://en.wikipedia.org/wiki/Functional_specialization_(brain)&#34; target=&#34;_blank&#34;&gt;the theory of modularity and the theory of distributive processing&lt;/a&gt;. Instead of asking whether brain&amp;rsquo;s regions are functionally interconnected or specialized, I tend to think of them as complementary to each other.&lt;/p&gt;
+
+&lt;p&gt;For the modularity theory, specialized regions are domain specific for different cognitive processes. From the evolutionary perspective, human mind evolved with enhanced functionality developing as a result of its increasing fitting capability to gain more adaptiveness, such as prefrontal cortex that handles high-level cognitive processes, and visual area V4 and V5 in charge of the perception of color and vision motion.&lt;/p&gt;
+
+&lt;p&gt;For distributive processing, brain areas are highly interconnected and process information in a distributed manner. Thanks to advances of brain imaging techniques such as MRI and PET scans, neural interactions can be measured by analysis in neuroimaging, which provides more evidence to support the interaction theory of distributive processing. Many regions in the brain are physically interconnected in a nonlinear system, procuding behaviors as a result of a variety of system organizations.&lt;/p&gt;
+
+&lt;p&gt;The two theories should be combined to collaboratively characterize the functioning of the brain. Modularity is a matter of degree rather than a rigid separation, and the nervous system always integrates information produced in different regions.&lt;/p&gt;
+
+&lt;p&gt;One of the biggest breakthroughs for artificial neural networks is to realize the importance of the idea of distributive representation that brings powerful expressivity. The specific meaning for each individual neuron unit is not neccessary, but instead the space spanned by a set of peer units may carry a semantically meaningful manifold, sort of a collective production.&lt;/p&gt;
+
+&lt;p&gt;However, the specialization property has not been well taken into account. Considering a fully-connected layer, each unit has access to its previous and next layers, receiving signals from all units in the previous layer and sending signals to all units in the next layer. There is no any specialization for each unit, since every unit has a similar role to one another. The only difference between each peer unit is their weights of connections to the two adjacent layers. Relying on such level of difference, one cannot expect that some sort of specialization and modularity would emerge. Of course, scalar units hold too limited information to carry subspace-level semantics and develop their specialization, and thus we should consider multi-dimension neuron unit or neuron node consisting of multiple atomic units to build a big neuron-node network. From this point of view, a standard DNN would turn into a chain computation architecture by wrapping units of each layer into a neuron node, without any branch or bypass. Therefore, each time we run a forward pass, every node would be activated and then updated regardless of whether it should be or not. I guess the chain architecture may be one of the factors that cause catastrophic forgetting or the interference problem.&lt;/p&gt;
+
+&lt;p&gt;I tend to think of a multi-way graph-structured architecture instead of a single-way chain-structured architecture, with branching or mergining possibly occuring at any point, which can be seen as an ultimate exention to skip connections, lateral connections and highway. We can image a gaint high-dimensional mesh net with some fractal structure, that it, with local-scale structures that hold unforgetable details as well as global-scale structures that enable regions to interacte with one another and exchange information efficently. Moreover, this gaint mesh net will not be operated fully, but instead only a small fraction of nodes will be actived to interact, forming a small subgraph performing computation.&lt;/p&gt;
+
+&lt;p&gt;A quetion is raised in the this computation framework - &lt;strong&gt;how do we pick the actived subgraph out of the gaint mesh net? And what does it stand for?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;It actually implies &lt;strong&gt;a navigation problem&lt;/strong&gt; that requires choosing nodes and edges at each step, a type of actions that happens in the computation graph. From a low-level computation view, it navigates computation flow through a subgraph of the big neural-node network; from a high-level concept view, a graph-structured architecture may be a better way to encode the external environment into an internal environment model, &lt;strong&gt;the imagination world&lt;/strong&gt;, so that a couterfactual experiment could be conducted in this world by taking &lt;strong&gt;virtual actions&lt;/strong&gt; through an imaginary adventure. &lt;strong&gt;Couterfactual reasoning&lt;/strong&gt; and &lt;strong&gt;action intervention&lt;/strong&gt; are key factors to develop causal cognition for humans.&lt;/p&gt;
+
+&lt;p&gt;Finally, I would take a bold move to speculate that &lt;strong&gt;it is attention that causes our consciouness flow&lt;/strong&gt;. On the one hand, there is an attention mechanism in the computation framework level to draw out a subgraph and navigate the computation flow; on the other hand, &lt;strong&gt;attention can be viewed as a mental action&lt;/strong&gt;, consciously navigating us in our conceptual or imagination world.&lt;/p&gt;
+
+&lt;p&gt;There is an old saying, one of the principles in Chinese Tai Chi martial art - &amp;ldquo;Use Yi (use wish), don&amp;rsquo;t use Li (apply force)&amp;rdquo;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Modeling Attention Flow on Graphs</title>
       <link>https://www.xiaoranxu.com/publication/modeling-attflow/</link>
       <pubDate>Thu, 01 Nov 2018 16:59:54 +0800</pubDate>

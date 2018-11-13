@@ -4,6 +4,38 @@
     
     <url>
     
+      <loc>https://www.xiaoranxu.com/thinking/about-human-roles/</loc>
+      <lastmod>2018-11-13T00:00:00+08:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://www.xiaoranxu.com/thinking/about-task-systems/</loc>
+      <lastmod>2018-11-12T00:00:00+08:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://www.xiaoranxu.com/thinking/about-objectives/</loc>
+      <lastmod>2018-11-11T00:00:00+08:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://www.xiaoranxu.com/thinking/about-architectures/</loc>
+      <lastmod>2018-11-10T00:00:00+08:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://www.xiaoranxu.com/publication/modeling-attflow/</loc>
       <lastmod>2018-11-01T16:59:54+08:00</lastmod>
     </url>
@@ -53,6 +85,14 @@
     <url>
     
       <loc>https://www.xiaoranxu.com/post/</loc>
+      <lastmod>2017-01-01T00:00:00+08:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://www.xiaoranxu.com/thinking/</loc>
       <lastmod>2017-01-01T00:00:00+08:00</lastmod>
     </url>
     
@@ -112,6 +152,15 @@
     
     <url>
     
+      <loc>https://www.xiaoranxu.com/tags/brain-architecture/</loc>
+      <lastmod>2018-11-10T00:00:00+08:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://www.xiaoranxu.com/categories/</loc>
       <priority>0</priority>
     </url>
@@ -122,6 +171,15 @@
     
       <loc>https://www.xiaoranxu.com/tags/causal-chains/</loc>
       <lastmod>2018-11-01T16:59:54+08:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://www.xiaoranxu.com/tags/continous-self-training/</loc>
+      <lastmod>2018-11-11T00:00:00+08:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -165,8 +223,35 @@
     
     <url>
     
+      <loc>https://www.xiaoranxu.com/tags/growing-ai/</loc>
+      <lastmod>2018-11-13T00:00:00+08:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://www.xiaoranxu.com/tags/human-roles/</loc>
+      <lastmod>2018-11-13T00:00:00+08:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://www.xiaoranxu.com/tags/knowledge-distillation/</loc>
       <lastmod>2018-08-27T00:00:00+08:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://www.xiaoranxu.com/tags/machine-education-growing-ai/</loc>
+      <lastmod>2018-11-12T00:00:00+08:00</lastmod>
       <priority>0</priority>
     </url>
     

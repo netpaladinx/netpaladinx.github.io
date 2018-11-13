@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Growing AI on A Pilgrim for A.I.</title>
+    <link>https://www.xiaoranxu.com/tags/growing-ai/</link>
+    <description>Recent content in Growing AI on A Pilgrim for A.I.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Tue, 13 Nov 2018 00:00:00 +0800</lastBuildDate>
+    
+	<atom:link href="https://www.xiaoranxu.com/tags/growing-ai/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Human Roles in Growing AI</title>
+      <link>https://www.xiaoranxu.com/thinking/about-human-roles/</link>
+      <pubDate>Tue, 13 Nov 2018 00:00:00 +0800</pubDate>
+      
+      <guid>https://www.xiaoranxu.com/thinking/about-human-roles/</guid>
+      <description>I would rather see intelligence as an ability to grow in knowledge and wisdom than as a product made by genius engineers that is ready for sale. If we really wish AI to own the same intellectual ability as us, we should be aware of the process of how we develop our intelligence. We, as intelligent beings, are born as a blank sheet of paper. To acquire intellectual growing, children need to learn from the environment, parents, teachers, friends and even opponents except engineers, that is, children need to learn from interaction with other humans.</description>
+    </item>
+    
+  </channel>
+</rss>
